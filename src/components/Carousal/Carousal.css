@@ -1,0 +1,18 @@
+.Carousal{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: brown;
+}
+.Carousal_images{
+    width: 110%;
+    height: 350px;
+}
+.Carousel_arrow{
+    cursor:pointer;
+}
+/* button:hover{
+    cursor: pointer;
+} */

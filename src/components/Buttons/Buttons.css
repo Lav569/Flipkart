@@ -1,0 +1,10 @@
+.Buttons{
+    color:blue;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding:5px 20px;
+    font-weight: 100%;;
+    border:1px solid white;
+    border-radius: 2px;
+}
